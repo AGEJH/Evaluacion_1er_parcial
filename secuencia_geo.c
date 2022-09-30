@@ -1,5 +1,5 @@
 //Escribir código de la sucesión exponencial 5,15,45,135
-//En donde se creará un ciclo for
+//En donde se creará un ciclo for.
 
 #include <iostream>
  
